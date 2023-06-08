@@ -2,6 +2,8 @@
 
 Welcome to the ChatGPT Prompt Starter Pack, a comprehensive collection of prompt templates and guidelines designed to streamline the process of creating engaging and effective conversations with OpenAI's ChatGPT language model. This repository serves as a valuable resource for developers, researchers, and enthusiasts looking to leverage the power of ChatGPT for a wide range of applications.
 
+[cheatsheet.jpg](https://github.com/blockode-co/chatgpt-prompt-starter-pack/blob/563649e2fe7ee379645f5792801be424d73bae48/cheatsheet.jpg)
+
 ## Key Features
 
 - **Prompt Templates**: The ChatGPT Prompt Starter Pack includes a diverse set of ready-to-use prompt templates that cover various use cases, such as virtual assistants, customer support, content generation, language translation, tutoring, and more. These templates provide a solid foundation for crafting conversational interactions with ChatGPT.
